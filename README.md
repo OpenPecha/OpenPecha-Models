@@ -3,7 +3,7 @@ repo for training machine learning models for various Tibetan nlp tasks using da
 
 ### List of models
 - Language Model
-  - [x] [Bert](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_BERT_LM.ipynb)
+  - [x] [BERT](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_BERT_LM.ipynb)
   - [x] [GPT](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_GPT_LM.ipynb)
   - [x] [LSTM](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_GPT_LM.ipynb)
 - Embedding Model
