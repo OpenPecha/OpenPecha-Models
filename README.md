@@ -5,7 +5,7 @@ repo for training machine learning models for various Tibetan nlp tasks using da
 - Language Model
   - [x] [BERT](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_BERT_LM.ipynb)
   - [x] [GPT](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_GPT_LM.ipynb)
-  - [x] [LSTM](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_GPT_LM.ipynb)
+  - [x] [LSTM](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_Custom_LM_keras.ipynb)
 - Embedding Model
   - [x] [Word2Vec](https://github.com/OpenPecha-dev/models/blob/main/models/embedding/gensim-word2vec-for-tibetan.ipynb)
   - [ ] [Doc2Vec](https://github.com/OpenPecha-dev/models/blob/main/models/embedding/gensim-doc2vec-for-tibetan.ipynb)
