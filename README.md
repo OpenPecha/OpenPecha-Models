@@ -15,4 +15,5 @@ repo for training machine learning models for various Tibetan nlp tasks using da
 - Sequence Tagging
   - [ ] POS Tagging
   - [ ] Text Segmentation
-- Dependency Training
+- Dependency Parsing
+- Entity Linking
