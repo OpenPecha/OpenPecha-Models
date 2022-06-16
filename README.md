@@ -19,7 +19,7 @@
 
 ## Description
 
-Scripts for preparing dataset and training various NLP models using OpenPech-Data
+Scripts for preparing dataset and training various NLP models using [OpenPech-Data](https://github.com/OpenPecha-Data)
 <!-- This section provides a high-level overview for the repo -->
 
 ## Owner
@@ -36,7 +36,7 @@ Scripts for preparing dataset and training various NLP models using OpenPech-Dat
 
 ## Docs
 
-### List of models
+### List of models trained using [OpenPecha-Data](https://github.com/OpenPecha-Data)
 - Language Model
   - [x] [BERT](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_BERT_LM.ipynb)
   - [x] [GPT](https://github.com/OpenPecha-dev/models/blob/main/models/lm/Classical_Bo_GPT_LM.ipynb)
