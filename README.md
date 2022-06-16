@@ -19,7 +19,7 @@
 
 ## Description
 
-Scripts for preparing dataset and training various NLP models using [OpenPech-Data](https://github.com/OpenPecha-Data)
+Example scripts to show how to use [OpenPech-Data](https://github.com/OpenPecha-Data) for training NLP models. The Goal is to gain feedback to make [OpenPech-Data](https://github.com/OpenPecha-Data) more acccesible to NLP researchers.
 <!-- This section provides a high-level overview for the repo -->
 
 ## Owner
